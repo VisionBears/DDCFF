@@ -1,20 +1,34 @@
 # DDCFF-Net
+
 This repository is associated with the manuscript:
-**DDCFF-Net: A Dual-Domain Collaborative Frequency Fusion Network for Brain Tumor Segmentation**
+
+**DDCFF-Net: Dual-Domain Collaborative Feature Fusion for 3D MRI Brain Tumor Segmentation**
 
 ## Code Availability
-The source code is currently being organized and documented to ensure reproducibility. The complete implementation will be made publicly available upon acceptance of the manuscript.
+
+The source code of DDCFF-Net is currently being organized and documented to ensure reproducibility. The complete implementation will be made publicly available upon acceptance of the manuscript.
+
 The released repository will include:
-* Model implementation of DDCFF-Net
-* Preprocessing scripts for the BraTS datasets
-* Training scripts
-* Evaluation scripts
-* Configuration files for reproducing the reported experiments
-* Instructions for preparing the dataset and running inference
+
+- Model implementation of DDCFF-Net
+- Preprocessing scripts for the BraTS datasets
+- Training scripts
+- Evaluation scripts
+- Configuration files for reproducing the reported experiments
+- Instructions for dataset preparation, training, evaluation, and inference
+
+## Current Status
+
+The repository is currently maintained as a placeholder for the manuscript submission and revision process. The code, configuration files, and reproducibility instructions will be released after the manuscript is accepted.
 
 ## Data
-This work is evaluated on the BraTS datasets. Due to dataset access policies, the original BraTS data will not be redistributed in this repository. Users should obtain the datasets from the official BraTS challenge sources and follow the provided preprocessing instructions after the code release.
+
+This work is evaluated on the BraTS datasets. Due to the dataset access policies, the original BraTS data will not be redistributed in this repository. Users should obtain the datasets from the official BraTS challenge sources and follow the preprocessing instructions that will be provided after the code release.
 
 ## Citation
+
 If you find this work useful, please cite the manuscript after publication. The BibTeX entry will be added once the paper is available online.
 
+## Contact
+
+For questions regarding this repository, please contact the corresponding author or open an issue after the code is released.
